@@ -8,8 +8,8 @@ class App extends React.Component {
   state = {
     characters: [
        {
-         nama: 'Diki',
-         hobi: 'vs'
+         nama: 'Diki Rahman',
+         hobi: 'Main Game'
        }
       ]
   };
